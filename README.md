@@ -28,14 +28,14 @@ console.log(Math.asinh(2)); // 1.4436354751788103
 ## Tests
 Simply clone the repo, `npm install`, and run `npm test`
 
-[package-url]: https://npmjs.org/package/es-shims/math.asinh
-[npm-version-svg]: https://versionbadg.es/es-shims/math.asinh.svg
-[deps-svg]: https://david-dm.org/es-shims/math.asinh.svg
-[deps-url]: https://david-dm.org/es-shims/math.asinh
-[dev-deps-svg]: https://david-dm.org/es-shims/math.asinh/dev-status.svg
-[dev-deps-url]: https://david-dm.org/es-shims/math.asinh#info=devDependencies
-[npm-badge-png]: https://nodei.co/npm/es-shims/math.asinh.png?downloads=true&stars=true
-[license-image]: https://img.shields.io/npm/l/es-shims/math.asinh.svg
+[package-url]: https://npmjs.org/package/math.asinh
+[npm-version-svg]: https://versionbadg.es/es-shims/Math.asinh.svg
+[deps-svg]: https://david-dm.org/es-shims/Math.asinh.svg
+[deps-url]: https://david-dm.org/es-shims/Math.asinh
+[dev-deps-svg]: https://david-dm.org/es-shims/Math.asinh/dev-status.svg
+[dev-deps-url]: https://david-dm.org/es-shims/Math.asinh#info=devDependencies
+[npm-badge-png]: https://nodei.co/npm/math.asinh.png?downloads=true&stars=true
+[license-image]: https://img.shields.io/npm/l/math.asinh.svg
 [license-url]: LICENSE
-[downloads-image]: https://img.shields.io/npm/dm/es-shims/math.asinh.svg
-[downloads-url]: https://npm-stat.com/charts.html?package=es-shims/math.asinh
+[downloads-image]: https://img.shields.io/npm/dm/math.asinh.svg
+[downloads-url]: https://npm-stat.com/charts.html?package=math.asinh
